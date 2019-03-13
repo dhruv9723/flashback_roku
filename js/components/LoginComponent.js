@@ -2,8 +2,8 @@ export default {
     template: `
         <div class="container">
             <div class="jumbotron roku-jumbotron">
-                <h1 class="display-4">Welcome to Flashback!</h1>
-                <p class="lead">Before revisiting your favourite movies, tv shows or music from yesteryear, please log in with a valid username and password.</p>
+                <h1 class="display-4">ROKU better than Netflix</h1>
+                <p class="lead">Let's take you to your favorite movies and favorite shows but before that please take a moment to Log In.</p>
                 <hr class="my-4">
                 <form>
                     <div class="form-row align-items-center">
